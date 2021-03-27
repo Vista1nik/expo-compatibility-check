@@ -1,7 +1,7 @@
 {
   "name": "expo-compatibility-check",
   "version": "1.0.0",
-  "description": "A simple cli to check platform compatibility of packages in your Expo project.",
+  "description": "A cli tool to check platform compatibility of packages in your Expo project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
